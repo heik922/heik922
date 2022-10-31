@@ -61,4 +61,4 @@
 ---
 
 [website]: https://heik922.github.io/
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/mei-king-kwok/
